@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "Sora";
+  src: url('./Sora.ttf');
+}
+
+body {
+  font-family: "Sora";
+  background-color: #0B132B;
+  color: #5BC0BE;
+  text-align: center;
+}
