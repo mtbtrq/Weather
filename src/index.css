@@ -9,3 +9,23 @@ body {
   color: #5BC0BE;
   text-align: center;
 }
+
+#cityEl {
+  margin-bottom: 5%;
+  border-radius: 5px;
+  outline: none;
+  padding: 5px 5px;
+  border: 2px solid #5BC0BE;
+}
+
+#search-button {
+  padding: 5px 5px;
+  border-radius: 5px;
+  outline: none;
+  border: 2px solid #5BC0BE;
+  transition: 0.3s;
+}
+
+#search-button:hover {
+  border: 2px solid hsl(288, 100%, 69%)
+}
